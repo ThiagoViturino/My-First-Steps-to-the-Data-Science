@@ -3,6 +3,9 @@ Projetc of Udacity Data Scientist Nanodregree
 
 Data Scientist Nanodegree Program -- Introduction to Data Science
 
+
+#### The purpose of this project is to prove my Python skills in handling and loading a different database, and my power to answer questions through data mining and analysis.
+
 Project : Write a Data Science Blog Post
 Thiago Viturino Damasceno - From Brazil
 
